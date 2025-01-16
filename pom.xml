@@ -12,7 +12,9 @@
     <packaging>pom</packaging>
 
     <!--聚合-->
-
+    <modules>
+        <module>admin</module>
+    </modules>
     <!--一些属性和版本号-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
